@@ -1,0 +1,11 @@
+OrderDate,Region,Product,Quantity,UnitPrice,SalesAmount
+2025-01-05,North,Laptop,2,50000,100000
+2025-01-06,South,Headphones,5,2000,10000
+2025-01-06,East,Keyboard,3,1500,4500
+2025-01-07,North,Laptop,1,52000,52000
+2025-01-08,West,Mouse,4,800,3200
+2025-01-09,South,Monitor,2,12000,24000
+2025-01-10,East,Keyboard,2,1500,3000
+2025-01-11,West,Printer,1,15000,15000
+2025-01-11,North,Laptop,3,48000,144000
+2025-01-12,South,Monitor,1,12500,12500
